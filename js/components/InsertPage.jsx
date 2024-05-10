@@ -27,7 +27,7 @@ export default function InsertPage() {
     <section className="bg-white dark:bg-gray-900">
       <div className="container px-6 py-10 mx-auto">
         <p className="w-[1000px] mx-auto text-center mt-4 text-3xl">
-           This page helps admin to add info about artists
+           This page helps admin to add info about movies
         </p>
 
         <form>
@@ -52,7 +52,7 @@ export default function InsertPage() {
               htmlFor="name"
               className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
             >
-              Artist name
+              Movie name
             </label>
             <input
               type="text"
@@ -68,7 +68,7 @@ export default function InsertPage() {
               htmlFor="description"
               className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
             >
-              Artist description
+              Movie description
             </label>
             <textarea
               id="description"
