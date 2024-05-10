@@ -1,5 +1,6 @@
 Proiect Cloud Computing Ilie Patricia Maria
 site proiect Vercel: https://vercel.com/iliepatriciamarias-projects/proiect-cloud-computing
+YouTube https://www.youtube.com/watch?v=kZwcqsc8wC4
 
 # Cele mai noi filme aparute in 2024
 
