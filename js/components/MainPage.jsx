@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export default function MainPage() {
   const [records, setRecords] = useState([]);
-
+ 
   useEffect(() => {
     fetchData();
   }, []);
