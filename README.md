@@ -22,10 +22,15 @@ Aplicația se bazează pe o arhitectură **REST (Representational State Transfer
 - **PUT/PATCH**: Actualizările se fac prin cereri HTTP PUT sau PATCH.
 - **DELETE**: Ștergerile se realizează prin cereri HTTP DELETE, asigurându-se astfel gestionarea eficientă a resurselor disponibile prin API.
 
-În acest proiect am utilizat servicii de cloud computing oferite de Vercel și MongoDB, facilitând dezvoltarea și gestionarea unei aplicații web destinată prezentării celor mai noi filme. Vercel Cloud Computing este o platformă care permite rularea aplicațiilor web într-un mediu de cloud, eliminând necesitatea de a gestiona infrastructura serverelor fizice. Această platformă oferă scalabilitate, securitate sporită și o serie de unelte care ajută la dezvoltarea rapidă a aplicațiilor moderne, incluzând suport pentru tehnologii precum React, Next.js și altele.
+În acest proiect am utilizat servicii de cloud computing oferite de Vercel și MongoDB, facilitând dezvoltarea și gestionarea unei aplicații web destinată prezentării celor mai noi filme.
+
+Vercel Cloud Computing este o platformă care permite rularea aplicațiilor web într-un mediu de cloud, eliminând necesitatea de a gestiona infrastructura serverelor fizice. Această platformă oferă scalabilitate, securitate sporită și o serie de unelte care ajută la dezvoltarea rapidă a aplicațiilor moderne, incluzând suport pentru tehnologii precum React, Next.js și altele.
+
 Prin Vercel, aplicația beneficiază de livrare continuă și control versiuni, facilitând testarea și lansarea versiunilor noi fără întreruperi. Aceasta îmbunătățește experiența utilizatorului prin actualizări fluide și acces rapid la cele mai recente informații despre filme.
+
 MongoDB Compass, pe de altă parte, este folosit pentru gestionarea vizuală a bazelor de date MongoDB, care stochează informații despre filme. Aceasta permite administrarea ușoară a datelor prin intermediul unei interfețe grafice intuitive. MongoDB Compass în mediu cloud (MongoDB Compass Cloud Computing) extinde aceste funcționalități permitând accesul la baza de date de oriunde, oferind scalabilitate și securitate îmbunătățită.
 Această configurație în cloud se integrează eficient cu alte platforme de cloud computing precum AWS, Google Cloud și Microsoft Azure, asigurând flexibilitate și opțiuni extinse pentru optimizarea performanței și costurilor.
+
 În concluzie, folosirea Vercel și MongoDB Compass în cloud reprezintă o soluție robustă și adaptabilă pentru o platformă web care nu doar că prezintă cele mai noi filme, dar oferă și posibilitatea utilizatorilor de a adăuga conținut nou într-un mod eficient și securizat. Aceasta transformă modul în care informațiile sunt gestionate și prezentate, asigurând o experiență de utilizare superioară.
 
 
